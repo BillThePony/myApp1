@@ -7,7 +7,7 @@ import { SignUpComponent } from "./sign-up/sign-up.component";
 
 @NgModule({
   declarations: [AppComponent, SignUpComponent],
-  imports: [BrowserModule, FormsModule],
+  imports: [BrowserModule,],
   providers: [],
   bootstrap: [AppComponent]
 })
